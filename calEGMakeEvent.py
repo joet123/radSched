@@ -34,8 +34,8 @@ event = {
     'RRULE:FREQ=DAILY;COUNT=2'
   ],
   'attendees': [
-    {'email': 'joe@ayda.co'},
-    {'email': 'joseftugwell@gmail.com'},
+    {'email': 'joe@example.co'},
+    {'email': 'example@gmail.com'},
   ],
   'reminders': {
     'useDefault': False,
