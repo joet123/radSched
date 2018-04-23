@@ -33,3 +33,4 @@ with open('scheduleNTS.json', 'w') as fp:
             json.dump(fullList, fp)
 
 print(fullList[15])
+

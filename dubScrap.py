@@ -7,52 +7,53 @@ import json
 fullList = list()
 showData = dict()
 
-print('hi')
-
-#Retrieve data from AJAX request page
 page = requests.get('http://dublab.com/schedule/')
-print('hi')
+print('Received data')
 contents = page.content
-soup = BeautifulSoup(contents, 'xml')
-
+soup = BeautifulSoup(contents, 'html5lib')
+print 'Data souped'
 # print(soup.prettify)
 
-#Look for times and show objects (could be reduced to one object)
-times = soup.find_all('div', attrs={'class': 'eme-calendar-full'})
-shows = soup.find_all('a')
+#Look for table with schedule
+table = soup.find( "table", {"class":"eme-calendar-table fullcalendar"} ) 
 
-print(times)
+month = soup.find( "td", {"class":"month_name"} )
+month = (month.text).strip('<> ')
 
-print('*****************************')
+n = 1
+records = [] # store all of the records in this list
+for row in table.findAll('tr'):
+    col = row.findAll('td')
+    print n
+    n = n+1
+    for i in range(0,len(col)):
+	    if 'eventful' in col[i]['class']:
+	    	print col[i]
+	    	weekStart = col[i].findAll('li')
+	    	for show in weekStart:
+	    		showData = dict()
+	    		print 'Time: ' + show.find('p').contents[2] + ', Show: ' + show.find('a').text + ', Link: ' + show.find('a').get('href')
+	    		# # lst = [node['class'] for node in col[i] if node.has_attr('class')]
+	    		# # print lst
+	    		# # for ana in col[i]:
+	    		# # 	if ana.parent.name == 'td':
+	    		# # 		print ana
 
-blah = soup.find_all('td', attrs={'class': 'Fri eventful event-day-6'})
-
-
-for beep in blah:
-	print(beep.prettify)
-# print(blah)
-
-
-exit()
-
-# print(soup.prettify)
-
-#Extract individual shows/times/links
-for i in range(0,len(shows)):
-	linkStr = 'https://www.nts.live' + shows[i].get('href') + '.com'
-	print('%s: at : %s @ %s' % (shows[i].text, times[i].text, linkStr))
-	showData['title'] = shows[i].text
-	showData['time'] = times[i].text
-	showData['link'] = linkStr
-	fullList.append(showData)
+	    		dayNum = col[i]['class'][2][-2:]
+	    		dayNum = dayNum.strip('-')
+	    		showData['title'] = show.find('a').text
+	    		showData['time'] = show.find('p').contents[2]
+	    		showData['link'] = show.find('a').get('href')
+	    		showData['day'] = col[i]['class'][0]
+	    		showData['date'] = dayNum
+	    		showData['month'] = month
+	    		fullList.append(showData)		
 
 #Write to JSON
-with open('sheduleNTS.json', 'w') as fp:
+with open('scheduleDUB.json', 'w') as fp:
             json.dump(fullList, fp)
 
-print(fullList[3])
-
-
+print(fullList[15])
 
 
 
