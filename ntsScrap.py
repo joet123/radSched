@@ -15,7 +15,7 @@ soup = BeautifulSoup(contents, 'html5lib')
 #Look for times and show objects (could be reduced to one object)
 times = soup.find_all('span', attrs={'class': 'time'})
 shows = soup.find_all('a')
-
+print(shows)
 # print(soup.prettify)
 
 #Extract individual shows/times/links

@@ -1,0 +1,553 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"myList"
+			],
+			[
+				"fin",
+				"findAll"
+			],
+			[
+				"head",
+				"header_tag"
+			],
+			[
+				"p",
+				"prettify"
+			],
+			[
+				"sh",
+				"showData"
+			],
+			[
+				"link",
+				"linkStr"
+			],
+			[
+				"pr",
+				"prettify"
+			],
+			[
+				"ad",
+				"adcVect"
+			],
+			[
+				"cs",
+				"csvData"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"gTher",
+				"getThermoSensorCount"
+			],
+			[
+				"dub",
+				"debugprintf"
+			],
+			[
+				"uin",
+				"uint16_t"
+			],
+			[
+				"ayda",
+				"AYDA_GSR_ENABLE"
+			],
+			[
+				"gsr",
+				"GSR"
+			],
+			[
+				"de",
+				"debugprintf"
+			],
+			[
+				"acc",
+				"accelCurrState"
+			],
+			[
+				"thermo",
+				"thermoCurrState"
+			],
+			[
+				"th",
+				"thermoGoState"
+			],
+			[
+				"accel",
+				"accelGoState"
+			],
+			[
+				"u",
+				"uint32_t"
+			],
+			[
+				"PowerSAt",
+				"PowerStateAccel"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ntsScrap.py",
+			"settings":
+			{
+				"buffer_size": 944,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dubScrap.py",
+			"settings":
+			{
+				"buffer_size": 1641,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Received data\nData souped\n1\n2\n3\n<td class=\"Sun eventful event-day-1\"><a href=\"http://dublab.com/events/2018-04-01/?category=2\" title=\"Kenneth Bager – Music for Dreams, Chris Kissel w/guest Zazz – Contact Wave, Ganas – Mas Exitos con Ganas, Zebulon FMR – Radio Zebulon, Joe Rihn – Audio Days, McAllister and Kyle Art Threat – Please and Thank you, Machine Project – Human Sound Activities\">1</a><ul class=\"eme-calendar-day-event\"><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/53774/kenneth-bager-music-for-dreams/\">Kenneth Bager – Music for Dreams</a></strong><br/>09:00 AM - 10:00 AM<br/>dublab</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/43418/chris-kissel-contact-wave/\">Chris Kissel w/guest Zazz – Contact Wave</a></strong><br/>10:00 AM - 12:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/63539/live-broadcast-ganas/\">Ganas – Mas Exitos con Ganas</a></strong><br/>12:00 PM - 02:00 PM<br/>dublab</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/46920/zebulon-fmr-%e2%80%93-radio-zebulon/\">Zebulon FMR – Radio Zebulon</a></strong><br/>02:00 PM - 04:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/49110/joe-rihn-audio-days/\">Joe Rihn – Audio Days</a></strong><br/>04:00 PM - 06:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/49086/mcallister-and-kyle-art-threat-please-and-thank-you/\">McAllister and Kyle Art Threat – Please and Thank you</a></strong><br/>06:00 PM - 08:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/63906/machine-project-human-sound-activities/\">Machine Project – Human Sound Activities</a></strong><br/>10:00 PM - 11:59 PM<br/></p></li></ul></td>\nnext\n[<li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/53774/kenneth-bager-music-for-dreams/\">Kenneth Bager \\u2013 Music for Dreams</a></strong><br/>09:00 AM - 10:00 AM<br/>dublab</p></li>, <li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/43418/chris-kissel-contact-wave/\">Chris Kissel w/guest Zazz \\u2013 Contact Wave</a></strong><br/>10:00 AM - 12:00 PM<br/>dublab.com</p></li>, <li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/63539/live-broadcast-ganas/\">Ganas \\u2013 Mas Exitos con Ganas</a></strong><br/>12:00 PM - 02:00 PM<br/>dublab</p></li>, <li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/46920/zebulon-fmr-%e2%80%93-radio-zebulon/\">Zebulon FMR \\u2013 Radio Zebulon</a></strong><br/>02:00 PM - 04:00 PM<br/>dublab.com</p></li>, <li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/49110/joe-rihn-audio-days/\">Joe Rihn \\u2013 Audio Days</a></strong><br/>04:00 PM - 06:00 PM<br/>dublab.com</p></li>, <li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/49086/mcallister-and-kyle-art-threat-please-and-thank-you/\">McAllister and Kyle Art Threat \\u2013 Please and Thank you</a></strong><br/>06:00 PM - 08:00 PM<br/>dublab.com</p></li>, <li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/63906/machine-project-human-sound-activities/\">Machine Project \\u2013 Human Sound Activities</a></strong><br/>10:00 PM - 11:59 PM<br/></p></li>]\n***************************************************\nTime: 09:00 AM - 10:00 AM, Show: Kenneth Bager – Music for Dreams, Link: http://dublab.com/events/53774/kenneth-bager-music-for-dreams/\n<td class=\"Sun eventful event-day-1\"><a href=\"http://dublab.com/events/2018-04-01/?category=2\" title=\"Kenneth Bager – Music for Dreams, Chris Kissel w/guest Zazz – Contact Wave, Ganas – Mas Exitos con Ganas, Zebulon FMR – Radio Zebulon, Joe Rihn – Audio Days, McAllister and Kyle Art Threat – Please and Thank you, Machine Project – Human Sound Activities\">1</a><ul class=\"eme-calendar-day-event\"><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/53774/kenneth-bager-music-for-dreams/\">Kenneth Bager – Music for Dreams</a></strong><br/>09:00 AM - 10:00 AM<br/>dublab</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/43418/chris-kissel-contact-wave/\">Chris Kissel w/guest Zazz – Contact Wave</a></strong><br/>10:00 AM - 12:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/63539/live-broadcast-ganas/\">Ganas – Mas Exitos con Ganas</a></strong><br/>12:00 PM - 02:00 PM<br/>dublab</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/46920/zebulon-fmr-%e2%80%93-radio-zebulon/\">Zebulon FMR – Radio Zebulon</a></strong><br/>02:00 PM - 04:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/49110/joe-rihn-audio-days/\">Joe Rihn – Audio Days</a></strong><br/>04:00 PM - 06:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/49086/mcallister-and-kyle-art-threat-please-and-thank-you/\">McAllister and Kyle Art Threat – Please and Thank you</a></strong><br/>06:00 PM - 08:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/63906/machine-project-human-sound-activities/\">Machine Project – Human Sound Activities</a></strong><br/>10:00 PM - 11:59 PM<br/></p></li></ul></td>\n----1----\n2\n--\n<a href=\"http://dublab.com/events/2018-04-01/?category=2\" title=\"Kenneth Bager – Music for Dreams, Chris Kissel w/guest Zazz – Contact Wave, Ganas – Mas Exitos con Ganas, Zebulon FMR – Radio Zebulon, Joe Rihn – Audio Days, McAllister and Kyle Art Threat – Please and Thank you, Machine Project – Human Sound Activities\">1</a>\n--\n<ul class=\"eme-calendar-day-event\"><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/53774/kenneth-bager-music-for-dreams/\">Kenneth Bager – Music for Dreams</a></strong><br/>09:00 AM - 10:00 AM<br/>dublab</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/43418/chris-kissel-contact-wave/\">Chris Kissel w/guest Zazz – Contact Wave</a></strong><br/>10:00 AM - 12:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/63539/live-broadcast-ganas/\">Ganas – Mas Exitos con Ganas</a></strong><br/>12:00 PM - 02:00 PM<br/>dublab</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/46920/zebulon-fmr-%e2%80%93-radio-zebulon/\">Zebulon FMR – Radio Zebulon</a></strong><br/>02:00 PM - 04:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/49110/joe-rihn-audio-days/\">Joe Rihn – Audio Days</a></strong><br/>04:00 PM - 06:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/49086/mcallister-and-kyle-art-threat-please-and-thank-you/\">McAllister and Kyle Art Threat – Please and Thank you</a></strong><br/>06:00 PM - 08:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/63906/machine-project-human-sound-activities/\">Machine Project – Human Sound Activities</a></strong><br/>10:00 PM - 11:59 PM<br/></p></li></ul>\n--\n[<a href=\"http://dublab.com/events/2018-04-01/?category=2\" title=\"Kenneth Bager \\u2013 Music for Dreams, Chris Kissel w/guest Zazz \\u2013 Contact Wave, Ganas \\u2013 Mas Exitos con Ganas, Zebulon FMR \\u2013 Radio Zebulon, Joe Rihn \\u2013 Audio Days, McAllister and Kyle Art Threat \\u2013 Please and Thank you, Machine Project \\u2013 Human Sound Activities\">1</a>, <ul class=\"eme-calendar-day-event\"><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/53774/kenneth-bager-music-for-dreams/\">Kenneth Bager \\u2013 Music for Dreams</a></strong><br/>09:00 AM - 10:00 AM<br/>dublab</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/43418/chris-kissel-contact-wave/\">Chris Kissel w/guest Zazz \\u2013 Contact Wave</a></strong><br/>10:00 AM - 12:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/63539/live-broadcast-ganas/\">Ganas \\u2013 Mas Exitos con Ganas</a></strong><br/>12:00 PM - 02:00 PM<br/>dublab</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/46920/zebulon-fmr-%e2%80%93-radio-zebulon/\">Zebulon FMR \\u2013 Radio Zebulon</a></strong><br/>02:00 PM - 04:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/49110/joe-rihn-audio-days/\">Joe Rihn \\u2013 Audio Days</a></strong><br/>04:00 PM - 06:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/49086/mcallister-and-kyle-art-threat-please-and-thank-you/\">McAllister and Kyle Art Threat \\u2013 Please and Thank you</a></strong><br/>06:00 PM - 08:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/63906/machine-project-human-sound-activities/\">Machine Project \\u2013 Human Sound Activities</a></strong><br/>10:00 PM - 11:59 PM<br/></p></li></ul>]\n--\n<td class=\"Sun eventful event-day-1\"><a href=\"http://dublab.com/events/2018-04-01/?category=2\" title=\"Kenneth Bager – Music for Dreams, Chris Kissel w/guest Zazz – Contact Wave, Ganas – Mas Exitos con Ganas, Zebulon FMR – Radio Zebulon, Joe Rihn – Audio Days, McAllister and Kyle Art Threat – Please and Thank you, Machine Project – Human Sound Activities\">1</a><ul class=\"eme-calendar-day-event\"><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/53774/kenneth-bager-music-for-dreams/\">Kenneth Bager – Music for Dreams</a></strong><br/>09:00 AM - 10:00 AM<br/>dublab</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/43418/chris-kissel-contact-wave/\">Chris Kissel w/guest Zazz – Contact Wave</a></strong><br/>10:00 AM - 12:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/63539/live-broadcast-ganas/\">Ganas – Mas Exitos con Ganas</a></strong><br/>12:00 PM - 02:00 PM<br/>dublab</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/46920/zebulon-fmr-%e2%80%93-radio-zebulon/\">Zebulon FMR – Radio Zebulon</a></strong><br/>02:00 PM - 04:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/49110/joe-rihn-audio-days/\">Joe Rihn – Audio Days</a></strong><br/>04:00 PM - 06:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/49086/mcallister-and-kyle-art-threat-please-and-thank-you/\">McAllister and Kyle Art Threat – Please and Thank you</a></strong><br/>06:00 PM - 08:00 PM<br/>dublab.com</p></li><li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/63906/machine-project-human-sound-activities/\">Machine Project – Human Sound Activities</a></strong><br/>10:00 PM - 11:59 PM<br/></p></li></ul></td>\n--\n[[u'eme-calendar-day-event']]\n[Finished in 31.0s]",
+			"settings":
+			{
+				"buffer_size": 10782,
+				"line_ending": "Unix",
+				"name": "Received data"
+			}
+		},
+		{
+			"file": "scheduleDUB.json",
+			"settings":
+			{
+				"buffer_size": 40509,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scheduleNTS.json",
+			"settings":
+			{
+				"buffer_size": 12841,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "joeFromExamples.py",
+			"settings":
+			{
+				"buffer_size": 319,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "from BeautifulSoup import BeautifulSoup"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/josef/gitHub/radSched"
+	],
+	"file_history":
+	[
+		"/Users/josef/gitHub/sheduleNTS.json",
+		"/Users/josef/gitHub/radSched/quicstart.py",
+		"/Users/josef/gitHub/radSched/calEGMakeEvent.py",
+		"/Users/josef/gitHub/dubScrap.py",
+		"/Users/josef/gitHub/bs4Sandbox.py",
+		"/Users/josef/gitHub/ntsScrap.py",
+		"/Users/josef/gitHub/db_python/polySBox.py",
+		"/Users/josef/gitHub/db_python/csvSplitter.py",
+		"/Users/josef/gitHub/db_python/blah.py",
+		"/Users/josef/gitHub/Firmware/app/power.c",
+		"/Users/josef/gitHub/Firmware/app/spi-flash.c",
+		"/Users/josef/gitHub/Firmware/app/motion.c",
+		"/Users/josef/gitHub/Firmware/app/log-compress.c",
+		"/Users/josef/gitHub/Firmware/app/journal.h",
+		"/Users/josef/gitHub/Firmware/app/sensyu.h",
+		"/Users/josef/Downloads/C7D9FBF6_1521733654.hex",
+		"/Users/josef/gitHub/Firmware/app/_10build/Ayda_Firmware.map",
+		"/Users/josef/gitHub/Firmware/app/_build/map.map",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/ble-protocol.c",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/ble-uart.c",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/power.h",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/ayda-ble.c",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/battery.c",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/hal.c",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/journal.h",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/i2c.c",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/thermo.c",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/spi-flash.c",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/led.c",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/bma250.c",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/thermo.h",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/ads1115.h",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/sensors.c",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/build.sh",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/main.c",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/power.c",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/led.h",
+		"/Users/kiliandolan/Ayda/Ayda-Firmware/app/util.c"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"eme",
+			"eventful",
+			"b",
+			"li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/53774/kenneth-bager-music-for-dreams/\">Kenneth Bager \\u2013 Music for Dreams</a></strong><br/>09:00 AM - 10:00 AM<br/>dublab</p></li>, <li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/43418/chris-kissel-contact-wave/\">Chris Kissel w/guest Zazz \\u2013 Contact Wave</a></strong><br/>10:00 AM - 12:00 PM<br/>dublab.com</p></li>, <li class=\"broadcast\"><p><strong><a href=\"http://dublab.com/events/63539/live-broadcast-ganas/\">Ganas \\u2013 Mas Exitos con Ganas</a></strong><br/>12",
+			"kenne",
+			"kenneth",
+			"]",
+			"eventful",
+			"event",
+			"<a",
+			"<td",
+			"<a",
+			"<tr>",
+			"tr",
+			"fkdjfas",
+			"fkd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ntsScrap.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 944,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "dubScrap.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1615,
+								1615
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 304.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								406
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Received data",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scheduleDUB.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								40509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "scheduleNTS.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								12841
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 995.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "joeFromExamples.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"auto_name": "from BeautifulSoup import BeautifulSoup",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 358.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "schedRad.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
